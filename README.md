@@ -15,7 +15,7 @@ Questa repository contiene una serie di esercizi di Machine Learning completamen
 - **MyCode:** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/logistic-regression-castelli)
 - **Score ottenuto:** [0.97875]
 
-### 2. Esercizio di Regressione
+### 3. Esercizio di Image Recognizer
 
 - **Dataset:** [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/code)
 - **MyCode:** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/ex3-ml)
