@@ -21,6 +21,8 @@ Questa repository contiene una serie di esercizi di Machine Learning completamen
 - **MyCode:** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/ex3-ml)
 - **Score ottenuto:** [0.979 V27]
 
+ecc...
+
 ## Istruzioni per l'utilizzo:
 
 Ogni cartella dell'esercizio contiene il codice sorgente ei risultati ottenuti.
