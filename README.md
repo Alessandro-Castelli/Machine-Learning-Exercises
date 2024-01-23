@@ -13,15 +13,23 @@ Questa repository contiene una serie di esercizi di Machine Learning completamen
 
 - **Dataset:** [Titanic](https://www.kaggle.com/c/titanic)
 - **MyCode:** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/logistic-regression-castelli)
-- **Score ottenuto:** [0.97875]
+- **Score ottenuto:** [0.97875] Accuracy
 
-### 3. Esercizio di Image Recognizer
+### 3. Esercizio di Image recognition (digit)
 
 - **Dataset:** [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/code)
 - **MyCode:** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/ex3-ml)
-- **Score ottenuto:** [0.979 V27]
+- **Score ottenuto:** [0.979 V27] Accuracy 
 
-ecc...
+### 4. Esercizio di Image recognition (Using CNN) 
+- **Dataset** [cats and dog recognizer](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+- **MyCode** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/ex4-ml)
+- **Score ottenuto** [0.42418] in questo caso il massimo ottenibile è 0 LOSS
+
+### 5. Esercizio di Image recognition (10 classi usando Resnet18)
+- **Dataset** [CIFAR-10 recognizer](https://www.kaggle.com/competitions/cifar-10)
+- **MyCode** [Alessandro Castelli Code](https://www.kaggle.com/code/alessandromajumba/ex5-ml)
+- **Score ottenuto** [0.8456] Accuracy
 
 ## Istruzioni per l'utilizzo:
 
